@@ -1,0 +1,13 @@
+import './app.scss';
+import Banner from './components/banner/Banner';
+import Header from './components/header/Header';
+
+export default function App() {
+  return (
+    <div className='container'>
+        <Header />
+        <Banner />
+        
+    </div>
+  )
+}
