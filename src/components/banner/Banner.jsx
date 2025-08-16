@@ -9,6 +9,8 @@ export default function Banner() {
         <div>
             <h1>Take your podcast to the next level</h1>
         </div>
+
+        
     </section>
   )
 }
